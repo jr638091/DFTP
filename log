@@ -1,0 +1,6 @@
+
+<function suma at 0x7fd6ddde2ea0> log begin
+	Function Name -->>  suma
+	Arguments of -->>  (1, 2)   KWARGS -->>  {}
+	Result of -->>  3
+<function suma at 0x7fd6ddde2ea0> log end
